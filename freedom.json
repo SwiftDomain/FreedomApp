@@ -1,5 +1,5 @@
 {
-	"id": "1",
+	"id": 1,
    	 "step1": "false",
     	"step2": true,
     	"step3": false,
@@ -8,10 +8,10 @@
    	"step6": false,
     	"step7": false,
     	"workingOn": "2",
-    	"debt": "30000",
-    	"debtBalance": "20456",
-    	"emergencyFund": "27000",
-    	"efBalance": "1000",
-    	"mortgage": "488000",
-    	"mortgageBalance": "450000"
+    	"debt": 30000,
+    	"debtBalance": 20456,
+    	"emergencyFund": 27000,
+    	"efBalance": 1000,
+    	"mortgage": 488000,
+    	"mortgageBalance": 450000
 }
