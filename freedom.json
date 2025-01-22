@@ -1,7 +1,6 @@
 {
-	"id": 1,
-   	 "step1": false,
-    	"step2": true,
+	"id": 2,
+	"step1": false,"step2": true,
     	"step3": false,
     	"step4": false,
     	"step5": false,
