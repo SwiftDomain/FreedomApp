@@ -5,13 +5,13 @@
     	"step3": false,
     	"step4": true,
     	"step5": true,
-   	"step6": false,
+   	    "step6": false,
     	"step7": false,
     	"workingOn": "3",
     	"debt": 36800,
     	"debtBalance": 0,
     	"emergencyFund": 27000,
-    	"efBalance": 3257,
+    	"efBalance": 1917.80,
     	"mortgage": 488000,
-    	"mortgageBalance": 450740
+    	"mortgageBalance": 448984
 }
