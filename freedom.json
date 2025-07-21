@@ -5,7 +5,7 @@
     	"step3": false,
     	"step4": true,
     	"step5": true,
-   	    "step6": false,
+   	"step6": false,
     	"step7": false,
     	"workingOn": "3",
     	"debt": 36800,
@@ -14,4 +14,9 @@
     	"efBalance": 8987,
     	"mortgage": 488000,
     	"mortgageBalance": 448103
+	"stocks": 2240
+	"crypto": 117
+	"equity": 677704
+	"retirement": 281312
+	
 }
